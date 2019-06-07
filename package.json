@@ -3,7 +3,11 @@
   "name": "jasmine-reporters-with-custom-junit-reporter",
   "description": "Reporters for the Jasmine BDD Framework",
   "version": "2.3.3",
+<<<<<<< HEAD
   "homepage": "https://github.com/s-santhosha/jasmine-reporters-with-custom-junit-reporter",
+=======
+  "homepage": "https://github.com/s-santhosha/jasmine-reporters",
+>>>>>>> c72a2c2d4f3bd4e93a2934453242cd888d37b799
   "maintainers": [
     "santosh s <s.santhosha@gmail.com>"
   ],
@@ -14,7 +18,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/s-santhosha/jasmine-reporters-with-custom-junit-reporter.git"
+=======
+    "url": "https://github.com/s-santhosha/jasmine-reporters.git"
+>>>>>>> c72a2c2d4f3bd4e93a2934453242cd888d37b799
   },
   "dependencies": {
     "mkdirp": "^0.5.1",
@@ -26,7 +34,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/s-santhosha/jasmine-reporters-with-custom-junit-reporter/issues"
+    "url": "https://github.com/s-santhosha/jasmine-reporters/issues"
   },
   "main": "index.js",
   "bin": {
