@@ -2,7 +2,7 @@
   "author": "s-santhosha",
   "name": "jasmine-reporters-with-custom-junit-reporter",
   "description": "Reporters for the Jasmine BDD Framework",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "homepage": "https://github.com/s-santhosha/jasmine-reporters-with-custom-junit-reporter",
   "maintainers": [
     "santosh s <s.santhosha@gmail.com>"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s-santhosha/jasmine-reporters-with-custom-junit-reporter.git"
+    "url": "git+https://github.com/s-santhosha/jasmine-reporters-with-custom-junit-reporter.git"
   },
   "dependencies": {
     "mkdirp": "^0.5.1",
