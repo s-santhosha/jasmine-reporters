@@ -1,9 +1,9 @@
 {
   "author": "s-santhosha",
-  "name": "jasmine-reporters",
+  "name": "jasmine-reporters-with-custom-junit-reporter",
   "description": "Reporters for the Jasmine BDD Framework",
   "version": "2.3.2",
-  "homepage": "https://github.com/s-santhosha/jasmine-reporters",
+  "homepage": "https://github.com/s-santhosha/jasmine-reporters-with-custom-junit-reporter",
   "maintainers": [
     "santosh s <s.santhosha@gmail.com>"
   ],
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s-santhosha/jasmine-reporters.git"
+    "url": "https://github.com/s-santhosha/jasmine-reporters-with-custom-junit-reporter.git"
   },
   "dependencies": {
     "mkdirp": "^0.5.1",
@@ -24,5 +24,15 @@
     "eslint": "^4.11.0",
     "jasmine": "^2.4.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-santhosha/jasmine-reporters-with-custom-junit-reporter/issues"
+  },
+  "main": "index.js",
+  "bin": {
+    "jasmine-reporters-with-custom-junit-reporter": "phantomjs-testrunner.js"
+  },
+  "directories": {
+    "example": "examples"
+  }
 }
