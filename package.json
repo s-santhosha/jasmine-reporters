@@ -1,11 +1,11 @@
 {
-  "author": "Larry Myers",
+  "author": "s-santhosha",
   "name": "jasmine-reporters",
   "description": "Reporters for the Jasmine BDD Framework",
   "version": "2.3.2",
-  "homepage": "https://github.com/larrymyers/jasmine-reporters",
+  "homepage": "https://github.com/s-santhosha/jasmine-reporters",
   "maintainers": [
-    "Ben Loveridge <bloveridge@gmail.com>"
+    "santosh s <s.santhosha@gmail.com>"
   ],
   "scripts": {
     "lint": "eslint . --report-unused-disable-directives",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/larrymyers/jasmine-reporters.git"
+    "url": "https://github.com/s-santhosha/jasmine-reporters.git"
   },
   "dependencies": {
     "mkdirp": "^0.5.1",
