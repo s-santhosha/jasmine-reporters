@@ -609,7 +609,7 @@
         "\n<testsuite " +
         (options.suppressDisabled ? "" : 'disabled="' + results.disabled + "") +
         '" timestamp="' +
-        results.timestamp +
+        ISODateString(new Date()) +
         '" errors="' +
         "0" +
         '" failures="' +
